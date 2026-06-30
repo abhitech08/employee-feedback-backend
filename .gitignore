@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+node_modules/
+npm-debug.log*
+server-smoke.*.log
+api-smoke.*.log
+uploads/*
+!uploads/.gitkeep
